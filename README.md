@@ -5,32 +5,29 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karelpelcak" alt="karelpelcak" /></a> </p>
 
-- 🔭 I’m currently working on **Eshop in SvelteKit, and smaller projects in React/NextJS/ExporessJS/SvelteKit/Rust**
+- 🔭 I’m currently working on **PromethiQ - crypto trade app**
 
 - 🌱 I’m currently learning **React/NextJS with Typescript to top level**
 
-- 💬 Ask me about **React/NextJS/SvelteKit/C# - ASP.NET Web API**
+- 💬 Ask me about **NextJS, Typescript, Go**
 
 - 📫 How to reach me **pelcak.karel@gmail.com**
 
 - 📚 Favorit Libraries:
-    - ZOD
     - TailwindCSS
-    - Prisma
-    - Axios
-    - Feather-icons
+    - Prisma | Drizzle ORM
+    - Lucide icons
  
-- 💿 Home hosted Database - MySQL
+- 💿 Self-host -> Raspberry PI
+- Docker (learning k8s)
       
 - 🤫 Main Secret project Stack:
     - NextJS
-    - ExpressJS
     - Typescript
-    - ZOD
-    - Prisma
-    - Axios
+    - GO
+    - GIN
     - TailwindCSS
-    - MySQL
+    - Postgres
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
